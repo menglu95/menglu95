@@ -6,7 +6,7 @@ So far, I have developed a lot of web apps for 6+ yrs.
 
 - 📫 How to reach me:
 `business email: menglu95120@gmail.com`
-`telegram: @MikeDev0120`
+`telegram: @Mike0120`
 
 <!---
 menglu95/menglu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
