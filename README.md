@@ -6,8 +6,6 @@ So far, I have developed a lot of web apps for 6+ yrs.
 
 - 📫 How to reach me:
   * business email: menglu95120@gmail.com
-  * telegram: https://t.me/Mike0120
-  * whatsapp: +8613214245140
   * phone: +1 (780) 669 3270
 
 <!---
