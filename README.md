@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mike(Meng) Lu,
-I am so proficient in React/Redux, React-Bootstrap, Material UI, React Native, Angular, Javascript, Python, Flask, AWS amplify, AWS lambda, etc are my special skills.
-So far, I have developed a lot of web apps for 6+ yrs.
+I am so proficient in React, Typescript, Javascript, Node.js, Next.js, Nest.js, Angular, Python, Flask, PHP, Laravel, AWS, Azure, etc.
+And serverless SaaS, B2B, B2C platform developments are also my special experience as well.
+So far, I have developed a lot of web apps for 8+ yrs.
 
 - 👀 I’m interested in full-time or contract role.
 
