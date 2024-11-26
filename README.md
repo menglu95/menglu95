@@ -7,7 +7,7 @@ So far, I have developed a lot of web apps for 8+ yrs.
 
 - 📫 How to reach me:
   * business email: menglu95120@gmail.com
-  * phone: +1 (780) 669 3270
+  * telegram: https://t.me/rolfsiger
 
 <!---
 menglu95/menglu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
